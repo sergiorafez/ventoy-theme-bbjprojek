@@ -1,6 +1,6 @@
 # Ventoy Theme: BBJProjeK
 ## Installation
-* On a Ventoy USB, create a folder names ```ventoy```
+* On a Ventoy USB, create a folder named ```ventoy```
 * Place these files into the created folder
 
 ## ISO Images
