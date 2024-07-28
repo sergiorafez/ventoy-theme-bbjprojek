@@ -1,5 +1,5 @@
 # Global properties
-title-text: "BBJProjeK USB Tools: Windows Images (@bbjprojek:2.2)"
+title-text: "BBJProjeK USB Tools: Windows Images (@bbjprojek:3.0)"
 title-font: "Unifont Regular 22"
 title-color: "#FFFFFF"
 desktop-image: "background.png"
